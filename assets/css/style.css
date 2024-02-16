@@ -3,5 +3,10 @@
     text-align: center;
 
 }
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
 
 /* Estilos da página contato.html*/
